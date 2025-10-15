@@ -131,14 +131,14 @@ export default function App() {
                   labelText="Password"
                   placeholder="Create Password"
                 />
-                <Input
+                {/* <Input
                   className="bg-white rounded-lg w-full p-2"
                   type="text"
                   id="password"
                   name="password"
                   labelText="Password"
                   placeholder="Repeat your password"
-                />
+                /> */}
                 
               </div>
               <div className="flex gap-4 w-full">
@@ -162,3 +162,13 @@ export default function App() {
     </div>
   );
 }
+
+
+
+
+
+
+
+
+
+
